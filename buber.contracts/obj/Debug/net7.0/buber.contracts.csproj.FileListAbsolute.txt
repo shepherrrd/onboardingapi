@@ -1,0 +1,12 @@
+C:\csharp\buber\buber.contracts\bin\Debug\net7.0\buber.contracts.deps.json
+C:\csharp\buber\buber.contracts\bin\Debug\net7.0\buber.contracts.dll
+C:\csharp\buber\buber.contracts\bin\Debug\net7.0\buber.contracts.pdb
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\buber.contracts.csproj.AssemblyReference.cache
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\buber.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\buber.contracts.AssemblyInfoInputs.cache
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\buber.contracts.AssemblyInfo.cs
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\buber.contracts.csproj.CoreCompileInputs.cache
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\buber.contracts.dll
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\refint\buber.contracts.dll
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\buber.contracts.pdb
+C:\csharp\buber\buber.contracts\obj\Debug\net7.0\ref\buber.contracts.dll

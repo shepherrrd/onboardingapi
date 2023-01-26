@@ -1,0 +1,2 @@
+  @id = f84ba7b5-1a14-4651-b400-bbbd2bb97839
+GET   http://localhost:5079/user/{{id}}

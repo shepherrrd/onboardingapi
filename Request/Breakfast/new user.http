@@ -1,0 +1,11 @@
+POST http://localhost:5079/user
+Content-Type: application/json
+
+{
+    "name": "Vegan Sunshine",
+    "username": "Vegan everything! Join us for a healthy breakfast.."
+    
+    
+    
+    
+}
